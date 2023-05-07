@@ -16,7 +16,7 @@
  
  <br>
  
-  ### Caso queira entrar em contato comigo, estão abaixo as minhas redes sociais!
+  ### If you want to contact me, my social networks are below!
  
 <div> 
   <a href="https://instagram.com/gui.alima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
