@@ -7,7 +7,9 @@
   
 ---
 <br>
-🥈 Finalist OFF-Season Brazil FRC (First Robotics Competition) <br/>
+
+🥈 Finalist OFF-Season Brazil FRC 2022 (First Robotics Competition) [Team #9164 Tech Vikings] <br/>
+🤖 6th place in the Final Ranking of the FRC Brazil Regional 2023 (First Robotics Competition) [Team #9164 Tech Vikings]
 📚 Systems Analysis and Development (2/6 Semesters) <br/>
 🔭 Focus on Python, Web Development, SQL and Data Analysis <br/>
 ☀️ I like to play games, listen to music and enjoy life
