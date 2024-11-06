@@ -1,30 +1,41 @@
-## Welcome to Guilherme Augusto's Profile 😁
+<h1 align="center"> Hi! Welcome to My Profile 😁 </h1>
 
- <div>
-   <a href="https://github.com/guialima29">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialima29&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&layout=compact&langs_count=6&theme=midnight-purple"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16FD1F&center=true&width=1000&lines=Dev+Full-Stack)](https://git.io/typing-svg)
+ 
+ <h3 align="center">Fullstack developer, but focus on back-end</h3>
+ <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
+  
+---
+<br>
+🥈 Finalist OFF-Season Brazil FRC (First Robotics Competition) <br/>
+📚 Systems Analysis and Development (2/6 Semesters) <br/>
+🔭 Focus on Python, Web Development, SQL and Data Analysis <br/>
+☀️ I like to play games, listen to music and enjoy life
 
+<div align="center">
+<h2>My Statics</h2>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false"/><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
+
+<h2 align="center">SKILLS</h2>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<div align="center">
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
  
  <br>
- 
-  ### If you want to contact me, my social networks are below!
- 
-<div> 
+
+<div align="center">
+<h2>Social Media</h2> 
   <a href="https://instagram.com/gui.alima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/guialima29" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCHk-q0tEtWvng_EBOY6Pasg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/gui.alima-alima?style=for-the-badge&logo=Discord&logoColor=white&color=%235865F2">
+  <a href="https://www.youtube.com/channel/@guibaa01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/guialima29" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fguialima29&style=for-the-badge&logo=X&logoColor=white&color=grey" target="_blank"></a>
  <!-- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:guilhermealima29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guialima29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-
 </div>
