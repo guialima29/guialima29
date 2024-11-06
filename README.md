@@ -1,4 +1,5 @@
 <h1 align="center"> Hi! Welcome to My Profile 😁 </h1>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16FD1F&center=true&width=1000&lines=Dev+Full-Stack)](https://git.io/typing-svg)
  
