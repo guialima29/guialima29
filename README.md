@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! Welcome to My Profile 😁 </h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16FD1F&center=true&width=1000&lines=Dev+Full-Stack+&+Data-Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF28&width=435&lines=Fullstack+%26+Data+Scientist+Developer)](https://git.io/typing-svg)
  
  <h3 align="center">Fullstack developer</h3>
  <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
