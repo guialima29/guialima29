@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! Welcome to My Profile 😁 </h1>
 <br/>
 
-[![Guilherme's stats](https://readme-typing-svg.demolab.com/demo/?font=Cascadia+Mono&color=14B300&center=true&repeat=false&lines=Fullstack+%26+Data+Scientist+Developer)]
+[![Guilherme's stats](https://readme-typing-svg.demolab.com/demo/?font=Cascadia+Mono&color=14B300&center=true&repeat=false&lines=Fullstack+%26+Data+Scientist+Developer)](https://git.io/typing-svg)
  
  <h3 align="center">Fullstack developer</h3>
  <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
