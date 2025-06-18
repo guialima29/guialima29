@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! Welcome to My Profile 😁 </h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Mono&pause=1000&color=14B300&center=true&vCenter=true&repeat=false&width=435&lines=Fullstack+%26+Data+Scientist+Developer)](https://git.io/typing-svg)
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Mono&pause=1000&color=14B300&center=true&vCenter=true&repeat=false&width=435&lines=Fullstack+%26+Data+Scientist+Developer)](https://git.io/typing-svg)</div>
  
  <h3 align="center">Fullstack developer</h3>
  <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
@@ -9,7 +9,7 @@
 ---
 <br>
 
-💼 IT Intern at [Copasul](https://www.copasul.coop.br/)
+💼 IT Intern at [Copasul - Naviraí](https://www.copasul.coop.br/) <br/>
 🥈 Finalist OFF-Season Brazil FRC 2022 (First Robotics Competition) [Team #9164 Tech Vikings] <br/>
 🤖 6th place in the Final Ranking of the FRC Brazil Regional 2023 (First Robotics Competition) [Team #9164 Tech Vikings] <br/>
 📚 Systems Analysis and Development (3/6 Semesters) <br/>
