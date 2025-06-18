@@ -1,9 +1,11 @@
 <h1 align="center"> Hi! Welcome to My Profile 😁 </h1>
 <br/>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Mono&pause=1000&color=14B300&center=true&repeat=false&width=435&lines=Fullstack+%26+Data+Scientist+Developer)](https://git.io/typing-svg)
- </div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Mono&pause=1000&color=14B300&center=true&repeat=false&width=435&lines=Fullstack+%26+Data+Scientist+Developer" alt="Typing SVG" />
+  </a>
+</p>
  
  <h3 align="center">Fullstack developer</h3>
  <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
