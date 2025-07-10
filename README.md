@@ -21,9 +21,9 @@
 
 <div align="center">
   <h2>My Statics</h2>
-  <div style="display: flex; gap: 10px;">
+  <div style="display: flex; gap: 25px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
   </div>
 </div>
 
