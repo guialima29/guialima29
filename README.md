@@ -21,11 +21,14 @@
 
 <div align="center">
   <h2>My Statics</h2>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" />
-  </div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&border_color=3d444d&icon_color=7fff00" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=500&border_color=3d444d" />
 </div>
+</div>
+
 
  <div>
 <h2 align="center">SKILLS</h2>
@@ -61,6 +64,6 @@
 
 <br>
 
-<div>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5tjn7p5ymxx10d3n33ugscyzw&count=1)
+<div align=center>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=5tjn7p5ymxx10d3n33ugscyzw&count=1"/>
 </div>
