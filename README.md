@@ -20,14 +20,14 @@
 ☀️ I like to play games, listen to music and enjoy life <br/>
 
 <div align="center">
-<div style="display: flex; gap: 10px;justify-content: space-evenly;">
+<div style="display: flex; gap: 10px;">
 <h2>My Statics</h2>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false"/><br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
-  
+  </div>
 <h2 align="center">SKILLS</h2>
-</div>
+
 <div align="center">
 <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
