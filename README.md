@@ -7,7 +7,7 @@
   </a>
 </p>
  
- <h3 align="center">Junior Fullstack developer</h3>
+ <h3 align="center">Junior Fullstack Developer</h3>
  <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
   
 ---
