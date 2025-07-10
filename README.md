@@ -21,13 +21,9 @@
 
 <div align="center">
   <h2>My Statics</h2>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img 
-      style="height: 180px; width: 300px; margin-right: 40px;" 
-      src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false"/>
-    <img 
-      style="height: 180px; width: 300px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" />
   </div>
 </div>
 
@@ -61,4 +57,10 @@
  <!-- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:guilhermealima29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guialima29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+<div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5tjn7p5ymxx10d3n33ugscyzw&count=1)
 </div>
