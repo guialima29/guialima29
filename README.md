@@ -19,11 +19,13 @@
 📚 Systems Analysis and Development (3/6 Semesters) <br/>
 ☀️ I like to play games, listen to music and enjoy life <br/>
 
-<div>
+<div align="center">
+<div style="display: flex; gap: 10px;">
 <h2>My Statics</h2>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false"/><br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
-
+</div>
+  
 <h2 align="center">SKILLS</h2>
 </div>
 <div align="center">
