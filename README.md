@@ -25,9 +25,11 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false"/><br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
- 
-<h2 align="center">SKILLS</h2>
  </div>
+
+ <div>
+<h2 align="center">SKILLS</h2>
+
 <div align="center">
 <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -43,7 +45,7 @@
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 
 </div>
- 
+ </div>
  <br>
 
 <div align="center">
