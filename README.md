@@ -61,9 +61,3 @@
   <a href = "mailto:guilhermealima29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guialima29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
-
-<div align=center>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=5tjn7p5ymxx10d3n33ugscyzw&count=1"/>
-</div>
