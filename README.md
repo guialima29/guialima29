@@ -22,10 +22,10 @@
 <div align="center">
   <h2>My Statics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&border_color=3d444d&icon_color=7fff00" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&line_height=20&card_width=400&border_color=3d444d&icon_color=7fff00" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=500&border_color=3d444d" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact&line_height=20&langs_count=8&card_width=400&border_color=3d444d" />
 </div>
 </div>
 
