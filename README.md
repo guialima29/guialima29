@@ -7,7 +7,7 @@
   </a>
 </p>
  
- <h3 align="center">Junior Fullstack Developer</h3>
+ <h3 align="center">Junior Developer</h3>
  <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
   
 ---
@@ -56,9 +56,10 @@
 <h2>Social Media</h2> 
   <a href="https://instagram.com/gui.alima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/gui.alima-alima?style=for-the-badge&logo=Discord&logoColor=white&color=%235865F2">
-  <a href="https://www.youtube.com/channel/@guibaa01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@guibaa01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://x.com/guialima29" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fguialima29&style=for-the-badge&logo=X&logoColor=white&color=grey" target="_blank"></a>
- <!-- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+<!--  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+  
   <a href = "mailto:guilhermealima29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guialima29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
