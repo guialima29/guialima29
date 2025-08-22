@@ -14,9 +14,9 @@
 <br>
 
 💼 IT Intern at [Copasul - Naviraí](https://www.copasul.coop.br/) <br/>
-🥈 Finalist OFF-Season Brazil FRC 2022 (First Robotics Competition) [Team #9164 Tech Vikings] <br/>
-🤖 6th place in the Final Ranking of the FRC Brazil Regional 2023 (First Robotics Competition) [Team #9164 Tech Vikings] <br/>
-📚 Systems Analysis and Development (3/6 Semesters) <br/>
+🥈 Finalist OFF-Season Brazil FRC 2022 (First Robotics Competition) [Team #9164 Tech Vikings](https://www.thebluealliance.com/team/9164) <br/>
+🤖 6th place in the Final Ranking of the FRC Brazil Regional 2023 (First Robotics Competition) [Team #9164 Tech Vikings](https://www.thebluealliance.com/team/9164) <br/>
+📚 Systems Analysis and Development (4/6 Semesters) <br/>
 ☀️ I like to play games, listen to music and enjoy life <br/>
 
 <div align="center">
