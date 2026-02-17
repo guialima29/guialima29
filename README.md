@@ -21,12 +21,7 @@
 
 <div align="center">
   <h2>My Statics</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=guialima29&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guialima29&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact&line_height=20&langs_count=8&card_width=400&border_color=3d444d" />
-</div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guialima29&theme=soft-green" alt="GitHub Streak" /></a>
 </div>
 
 
