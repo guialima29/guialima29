@@ -7,13 +7,13 @@
   </a>
 </p>
  
- <h3 align="center">Junior Developer</h3>
+ <h3 align="center">Developer & Data Engineer</h3>
  <p align ="center"> <em>"Only you can appreciate the genius that is you"<em> ~ Post Malone</p>
   
 ---
 <br>
 
-💼 Development Assistant at [Copasul - Naviraí](https://www.copasul.coop.br/) <br/>
+💼 Data Engineer at [Copasul - Naviraí](https://www.copasul.coop.br/) <br/>
 🥈 Finalist OFF-Season Brazil FRC 2022 (First Robotics Competition) Team: [#9164 Tech Vikings](https://www.thebluealliance.com/team/9164) <br/>
 🤖 6th place in the Final Ranking of the FRC Brazil Regional 2023 (First Robotics Competition) Team: [#9164 Tech Vikings](https://www.thebluealliance.com/team/9164) <br/>
 📚 Systems Analysis and Development (5/6 Semesters) <br/>
